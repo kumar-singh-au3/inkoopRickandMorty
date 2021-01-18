@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/inkoopRickandMorty/static/js/main.c831b0dc.chunk.js",
+    "main.js.map": "/inkoopRickandMorty/static/js/main.c831b0dc.chunk.js.map",
+    "runtime~main.js": "/inkoopRickandMorty/static/js/runtime~main.fcb80fd8.js",
+    "runtime~main.js.map": "/inkoopRickandMorty/static/js/runtime~main.fcb80fd8.js.map",
+    "static/css/2.0e1a4c73.chunk.css": "/inkoopRickandMorty/static/css/2.0e1a4c73.chunk.css",
+    "static/js/2.48b94a29.chunk.js": "/inkoopRickandMorty/static/js/2.48b94a29.chunk.js",
+    "static/js/2.48b94a29.chunk.js.map": "/inkoopRickandMorty/static/js/2.48b94a29.chunk.js.map",
+    "index.html": "/inkoopRickandMorty/index.html",
+    "precache-manifest.eda7dcf58f308edb863613edad758081.js": "/inkoopRickandMorty/precache-manifest.eda7dcf58f308edb863613edad758081.js",
+    "service-worker.js": "/inkoopRickandMorty/service-worker.js",
+    "static/css/2.0e1a4c73.chunk.css.map": "/inkoopRickandMorty/static/css/2.0e1a4c73.chunk.css.map"
+  }
+}
